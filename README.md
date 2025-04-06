@@ -30,11 +30,13 @@ Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 6. Visualization: Power BI visuals are used to display the distribution of customer segments and key insights.
 
 
-#RFMAnalysis #CustomerSegmentation #SmartMarketing #BusinessGrowth #DataDriven #PowerBI #Python
-
-
 ## 📁 Project Files
 - Customer Segmentation Doc.pdf - Business insights and recommendations based on this analysis
 - Customer Segmentation.ipynb - How to do this analysis using python
 - Dashboard - Customer Segmentation.pbix – Power BI report file with all visuals and DAX calculations
 - RFM DAX Reference.md – DAX formulas used in the report
+ 
+ 
+ 
+ 
+#RFMAnalysis #CustomerSegmentation #SmartMarketing #BusinessGrowth #DataDriven #PowerBI #Python
